@@ -102,6 +102,6 @@ See [DesignDocument.md](./DesignDocument.md) for architecture and details.
 
 ## Author
 
-**Candidate**: [Your Name]  
+**Candidate**: Segu Sai Bharadwaj
 **Submitted to**: INI8 Labs  
 **Date**: July 2025
